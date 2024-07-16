@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nasrnaveed
-- 👀 I’m interested in web development and C++ programming.
+- 👀 I’m interested in web development, data science, Python and C++ programming.
 - 🌱 I’m currently studying as an undergraduate student of BS IT at Bahria University Lahore Campus.
 - 💞️ I’m looking to collaborate on anything interesting and related to my field.
 - 📫 How to reach me simply email me at nasrnaveed425@gmail.com
